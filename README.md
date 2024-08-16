@@ -11,8 +11,12 @@ Long term, I would like this to:
 
 Venues I would like to scrape:
 *713 Music Hall (https://www.713musichall.com/shows)
-*House of Blues Houston (https://www.houseofblues.com/houston/concert-events)
-*The Heights Theater (https://www.prekindle.com/theheights/)
 *Bayou Music Center (https://www.bayoumusiccenter.com/shows)
+*White Oak Music Hall (https://whiteoakmusichall.com/#event-listing)
+*House of Blues Houston (https://www.houseofblues.com/houston/concert-events)
 *The Continental Club Houston (https://continentalclub.com/houston)
 *Shoeshine Charley's Big Top Lounge (https://continentalclub.com/bigtop)
+*The Heights Theater (https://www.prekindle.com/theheights/)
+*McGonigel's Mucky Duck (https://www.mcgonigels.com/#shows)
+*The Armadillo Palace (https://thearmadillopalace.com/live-music/)
+*Last Concert Cafe (https://lastconcert.com/)

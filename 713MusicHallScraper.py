@@ -86,7 +86,7 @@ band_names = 'TBD'
 # and copies the text in that area to the corresponding variables "date" and
 # "event_name". It then writes the content save in the variable to the cells
 # specified. 
-for i, concert in enumerate(concerts, start=5):
+for i, concert in enumerate(concerts, start=2):
     date = concert.find('p', class_='chakra-text css-lfdvoo').text.strip()
     event_name = concert.find('p', class_='chakra-text css-zvlevn').text.strip()
     
@@ -101,4 +101,4 @@ for i, concert in enumerate(concerts, start=5):
 timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
 # Save the Excel file with timestamp
-wb.save(f'713concerts_{timestamp}.xlsx')
+wb.save(f'713 Music Hall Concerts_{timestamp}.xlsx')

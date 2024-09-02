@@ -10,13 +10,25 @@ Long term, I would like this to:
 *Make a Spotify and/or Apple Musics playlist with a couple of the top songs of each artist coming to a venue.
 
 Venues I would like to scrape:
+
 *713 Music Hall (https://www.713musichall.com/shows)
+
 *Bayou Music Center (https://www.bayoumusiccenter.com/shows)
+
 *White Oak Music Hall (https://whiteoakmusichall.com/#event-listing)
+
 *House of Blues Houston (https://www.houseofblues.com/houston/concert-events)
+
 *The Continental Club Houston (https://continentalclub.com/houston)
+
 *Shoeshine Charley's Big Top Lounge (https://continentalclub.com/bigtop)
+
 *The Heights Theater (https://www.prekindle.com/theheights/)
+
+*Dan Electro's (https://www.danelectrosheights.com/events)
+
 *McGonigel's Mucky Duck (https://www.mcgonigels.com/#shows)
+
 *The Armadillo Palace (https://thearmadillopalace.com/live-music/)
+
 *Last Concert Cafe (https://lastconcert.com/)

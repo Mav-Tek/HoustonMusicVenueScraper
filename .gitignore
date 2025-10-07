@@ -1,0 +1,75 @@
+# ========================
+# This is a .gitignore file which is unique to Git projects. 
+# This file tells GitHub not to copy certain files that are created when running code locally like temporary files.
+# It helps keep you repo cleaner and not have extra folders and files that are not actually needed.
+# The items below were ChatGPTs guess as to what files my laptop might created with this project that we should avoid uploading to GitHub.
+# ========================
+
+
+# ========================
+# Python bytecode and cache
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ========================
+# Virtual environments
+# ========================
+venv/
+env/
+ENV/
+.venv/
+
+# ========================
+# Environment variables
+# ========================
+.env
+.env.*      # for multiple environment files
+
+# ========================
+# Database files
+# ========================
+*.db
+*.sqlite
+*.sqlite3
+
+# ========================
+# Logs and temporary files
+# ========================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ========================
+# Docker
+# ========================
+*.dockerignore
+docker-compose.override.yml
+**/Dockerfile*
+
+# ========================
+# OS generated files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# IDE files
+# ========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ========================
+# Jupyter Notebook
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# Pytest / testing caches
+# ========================
+.pytest_cache/
+.cache/
